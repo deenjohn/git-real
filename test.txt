@@ -1,5 +1,3 @@
-Hi I am a text
 
-Back Raise – slang for a re-raise.
 
-Bad Beat – losing with a normally-strong hand.
+Then "git pull" will fetch and replay the changes from the remote master branch since it diverged from the local master (i.e., E) until its current commit (C) on top of master and record the result in a new commit along with the names of the two parent commits and a log message from the user describing the changes.
